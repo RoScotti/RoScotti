@@ -36,3 +36,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact my nickname is **Scotti**</br>
 
 <hr>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=RoScotti&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
