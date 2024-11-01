@@ -3,9 +3,9 @@ RoScotti/RoScotti is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hey 👋, My name is Rochelle</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave GIF" width="40" height="40" /> Hello there, I am Rochelle </h1>
 <div align="left">
-<h4 align="center">I'm a budding platform Engineer!<br>A hands-on learner who is currently focused on building cloud projects to gain more experience in cloud engineering. Excited to apply my skills in GCP, Terraform and other tools to create robust and scalable solutions.<br>Always up for a challenge and looking to collaborate on interesting cloud projects!</h4>
+<p align="left"> You can often find me with my head in the cloud! 😝 <br>I'm a budding Platform Engineer and a hands-on learner focused on building cloud projects to gain experience in cloud engineering. I'm excited to apply my skills in GCP, Terraform, and other tools to create robust and scalable solutions!</p>
 </div>
 <hr>
 <h3 align="left"> 🌐 Socials:</h3>
