@@ -39,6 +39,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">✍️ Blog Posts:</h3> 
 
+[How I passed the SC-900 Microsoft Security, Compliance, and Identity Fundamentals exam](https://rochellescott.hashnode.dev/how-i-passed-the-sc-900-microsoft-security-compliance-and-identity-fundamentals-exam)
+
 <hr>
 
 - 🔭 I'm currently working on [GCP-static-website]()
