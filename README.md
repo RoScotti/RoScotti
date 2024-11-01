@@ -37,6 +37,10 @@ You can click the Preview link to take a look at your changes.
   
 <hr>
 
+<h3 align="left">✍️ Blog Posts:</h3> 
+
+<hr>
+
 - 🔭 I'm currently working on [GCP-static-website]()
 
 - 🌱 I'm always building my knowledge of **GCP, Azure, Linux, Docker, etc.**
