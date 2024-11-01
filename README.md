@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave GIF" width="40" height="40" /> Hello there, I am Rochelle </h1>
 <div align="left">
-<p align="left"> You can often find me with my head in the cloud! 😝 <br>I'm a budding Platform Engineer and a hands-on learner focused on building cloud projects to gain experience in cloud engineering. I'm excited to apply my skills in GCP, Terraform, and other tools to create robust and scalable solutions!</p>
+<p align="left"> You can often find me with my head in the cloud! 😝 <br>I'm a budding Platform Engineer and a hands-on learner focused on building cloud projects to gain experience in cloud engineering. I'm excited to apply my skills in GCP/Azure, Terraform, and other tools to create robust and scalable solutions!</p>
 </div>
 <hr>
 <h3 align="left"> 🌐 Socials:</h3>
