@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/rochelle-scotti/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://rochellescott.hashnode.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="35" alt="hashcode logo"/>
+  </a>
 <hr>
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
 <p>
