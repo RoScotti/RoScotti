@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">✍️ Blog Posts:</h3> 
 
 - [How I passed the SC-900 Microsoft Security, Compliance, and Identity Fundamentals exam](https://rochellescott.hashnode.dev/how-i-passed-the-sc-900-microsoft-security-compliance-and-identity-fundamentals-exam)
-- [How I passed the AZ-900 Azure Fundamentals Exam](https://rochellescott.hashnode.dev/how-i-passed-the-az-900-azure-fundamentals-exam)
 - [Ultimate Docker Command List](https://rochellescott.hashnode.dev/ultimate-docker-command-list)
 - [Introduction to Terraform](https://rochellescott.hashnode.dev/introduction-to-terraform)
   
