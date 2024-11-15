@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" style="margin-right: 15px;"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" style="margin-right: 15px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="margin-right: 15px;"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" style="margin-right: 15px;"/>
 </p>
 
 <hr>
