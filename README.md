@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I'm currently working on [Project]()
 
-- 🌱 I'm always building my knowledge of **Azure, Linux, Docker, etc.**
+- 🌱 I'm always building my knowledge of **Python, SQL, Azure, etc.**
 
 - 👨‍💻 All of my projects are available at [My GitHub repos](https://github.com/RoScotti?tab=repositories)
 
